@@ -85,6 +85,7 @@
   [Julian Cumps](https://github.com/juliancumps)
   [Han Set Naing](https://github.com/Hansetnaing)
 - [Syed Arham]
+- [Manoj Kumar](https://github.com/manojddv)
 - [Edward Dume](https://github.com/edwarddume55)
 - [Vaishnavi Suryawanshi](https://github.com/VaishnaviSW01)
 - [Vinay Kumar] (https://github.com/vinay123-ops)
@@ -285,6 +286,7 @@
 - [Malvin-sehmaluva-Machingura](https://github.com/sehmaluva)
   [My_first_Contribution]
   [Mi_primera_contribucion_ange]
+- [Davide Loconte](https://github.com/DavideLoconte)
 - [Fady Zaky](https://github.com/0ddAuto00)
 - [Aryan Vishwakarma](https://github.com/vishwakarma-31).
 - [Abhiram kondaguduru](https://github.com/k-abhiram21)
@@ -1461,3 +1463,4 @@ Maqsood Ansari
 - [karan gohel] (https://github.com/karangohel09)
 - Saksham Tomar
 - [Najmul Arifeen](https://github.com/najmularifeen786)
+- [Menschenkind](https://github.com/menschenkind)
